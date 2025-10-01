@@ -3,7 +3,7 @@
 <h1 align="center">PyPing 🐍📡</h1>
 
 <p align="center">
-  <strong>English</strong> | <a href="#-utilitário-de-ping-em-python">Português</a>
+  <strong>English</strong> | <a href="#pyping---verificador-de-host">Português</a>
 </p>
 
 A simple Python script to check network connectivity to a host using the `ping` command.
@@ -102,7 +102,7 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 <br>
 
-<h1 align="center">PyPing 🐍📡</h1> 
+<h1 align="center">PyPing 🐍📡 - Verificador de Host </h1> 
 
 <p align="center">
   <strong>English</strong> | <a href="#-utilitário-de-ping-em-python">Português</a>
