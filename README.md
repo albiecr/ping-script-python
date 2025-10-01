@@ -105,7 +105,7 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 <h1 align="center">PyPing 🐍📡</h1> 
 
 <p align="center">
-  <strong>Português</strong> | <a href="#-utilitário-de-ping-em-python">Português</a>
+  <strong>English</strong> | <a href="#-utilitário-de-ping-em-python">Português</a>
 </p>
 
 Um script simples em Python para testar a conectividade de rede com um host usando o comando `ping`.
