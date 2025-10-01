@@ -3,7 +3,7 @@
 <h1 align="center">PyPing 🐍📡</h1>
 
 <p align="center">
-  <strong>English</strong> | <a href="#user-content-pyping----verificador-de-host">Português</a>
+  <strong>English</strong> | <a href="#user-content-pyping-">Português</a>
 </p>
 
 A simple Python script to check network connectivity to a host using the `ping` command.
